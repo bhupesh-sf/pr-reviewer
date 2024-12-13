@@ -152,7 +152,7 @@ inputs:
     required: false
     description:
       'Model to use for simple tasks like summarizing diff on a file.'
-    default: 'llama-3.2-3b-instruct'
+    default: 'qwen2.5-coder-14b-instruct'
   openai_heavy_model:
     required: false
     description: 'Model to use for complex tasks such as code reviews.'
