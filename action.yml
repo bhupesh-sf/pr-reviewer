@@ -147,7 +147,7 @@ inputs:
   openai_base_url:
     required: false
     description: 'The url of the openai api interface.'
-    default: 'http://127.0.0.1:12345/v1'
+    default: 'https://d7e7-2405-201-403d-1020-40a3-8b0f-bfc-9fd4.ngrok-free.app/v1'
   openai_light_model:
     required: false
     description:
